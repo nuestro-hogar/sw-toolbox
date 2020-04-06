@@ -4,3 +4,5 @@ includes_dir: ./themes/jekyll/_includes/
 
 # This adds github pages data
 gems: ['jekyll-github-metadata']
+
+theme: jekyll-theme-merlot
